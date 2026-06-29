@@ -1,0 +1,93 @@
+---
+title: Gli spiritelli della musica
+subtitle: Battimenti e note fantasma
+date: 2026-05-06
+authors:
+  - name: paolo palmerini
+  - affiliation: 
+  - roles: writing
+  - corresponding: true
+bibliography: references.bib
+---
+
+# "Hai sentito quel frrrrr?"
+
+A volte nella musica succedono delle cose strane. Quando un gruppo di musicisti suona insieme, in alcune condizioni succede che si sentano dei suoni che nessuno ha suonato, come se ci fosse un'entità esterna che aggiunge delle note di nascosto. In effetti, un po' è così. 
+
+Si tratta di suoni spesso difficili da distinuguere chiaramente ma un orecchio esperto non mancherà di notarle quando appaiono e, con grande entusiasmo, ci chiederà: "Hai sentito anche tu quel frrrrr, vero?". Le persone non particolarmente allenate all'ascolto della musica (ovvero la maggior parte di noi), in realtà all'inizio potrebbe fare un po' fatica a sentirle quelle note nascoste, perché appaiono solo in presenza di altre note e solo in particolari momenti e sono quindi difficili da sentire. 
+
+Oltre all'allenamento, potrebbe aiutare la comprensione dell'origine di queste note. Proviamo quindi a capire da dove arrivano questi suoni misteriosi e come fare a sentirli. 
+
+# Le vibrazioni delle note 
+
+Cominciamo con il ricordare che le note che noi sentiamo o che cantiamo, sono vibrazioni dell'aria. Il nostro orecchio sente la pressione del'aria sul timpano e trasforma nel nostro cervello questa pressione meccanica nella percezione di un suono. Quando questa pressione si alterna con regolarità e molto velocemente, quando una pressione viene esercitata molte volte in un secondo tramite una vibrazione regolare, sentiamo una nota. Il numero di vibrazioni al secondo si chiama frequenza ed è un numero che identifica ogni nota. Ogni nota che possiamo sentire è quindi associata ad una certa frequenza che corrisponde al numero di vibrazioni al secondo dell'aria contro il timpano del nostro orecchio.
+
+Ad esempio, una vibrazione di 440 volte al secondo corrisponde alla nota La. Il numero di vibrazioni al secondo è misurato in cicli al secondo o Hertz (Hz). Quindi il La è la nota che suona a 440 Hz. Qui sotto è possibile ascoltare il suono di un La a 440 Hz. 
+
+```{=html}
+<audio controls>
+  <source src="440.wav" type="audio/wav">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+```
+# I battimenti
+
+Cosa succede quando sovrapponiamo due note a due frequenze diverse? In generale, otteniamo una terza nota, la cui vibrazione è data dalla somma delle vibrazioni delle altre due. Questa sovrapposizione può dare origine a risultati molto diversi, a seconda della relazione tra le due note che stiamo sovrapponendo. In particolare, quando le due note che vogliamo sovrapporre sono abbastanza *vicine* ovvero hanno quasi la stessa frequenza, ma non proprio identica, succede che compare come un *trillo* che potremmo identificare anche come un *frrrrr* che è un effetto dovuto proprio alla vicinanza delle frequenze. Sentiamo ad esempio cosa succede sovrapponendo una nota a 440Hz con un'altra a 450Hz:
+
+```{=html}
+<audio controls>
+  <source src="440-450.mp3" type="audio/wav">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+```
+Si sente molto bene il *frrrrr* di cui parlavamo che prende il nome, appunto di *battimenti*. I battimenti sono un'indicazione che le due note sono molto vicine in termini di frequenza. Quanto vicine? Tanto più il trillo è veloce, tanto più le note sono lontane. Tanto più il trillo è lento, tanto più le note sono vicine. Quando le note sono identiche, ovvero quando hanno esattamente la stessa frequenza, i battimenti scompaiono. Proviamo ad esempio ad aumentare la distanza tra le note e prendiamo 440Hz e 460Hz:
+
+```{=html}
+<audio controls>
+  <source src="440-460.mp3" type="audio/wav">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+```
+I battimenti in questo caso sono più veloci perché le note sono più lontane. 
+
+Il fenomeno dei battimenti è utilizzato per un duplice scopo. Può essere usato per accordare gli strumenti. Quando stiamo cercando di accordare uno strumento e siamo *vicini* alla nota giusta, i battimenti ci dicono se effettivamente due note sono uguali oppure no. Nell'accordatura della chitarra i battimenti sono molto utilizzati. 
+
+I battimenti possono anche essere utilizzati per creare un effetto di ampiezza del suono. Nella fisarmonica ad esempio, dove il suono viene prodotto dall'aria che passa attraverso delle ance, è possibile abilitare l'apertura contemporanea di più ance diverse, che sono leggermente scordate tra loro. Non troppo da produrre una dissonanza, ma abbastanza da produrre dei battimenti, creando un effetto di maggior movimento del suono. 
+
+# Più vibrazioni insieme
+
+Non possiamo non notare che questa La suoni un po' strana. Non sapremmo dire che quale strumento possa essere stato generato. Sembrerebbe più un computer che uno strumento reale. Che cosa ha di particolare questa nota? In realtà quando suoniamo un La con un qualunque strumento compresa la voce, lo strumento non produce mai solo un'unica frequenza. Una nota reale prodotta da uno strumento è un insieme di frequenze mescolate tra loro. Quella che abbiamo sentito prima è una nota *pura* composta da un'unica frequenza. Le note degli strumenti invece sono composte da tante frequenze, con dei rapporti precisi tra loro e delle intensistà ben determinate. Per questo, pur essendo la stessa nota, riusciamo a distinguere il La di un pianoforte 
+
+```{=html}
+<audio controls>
+  <source src="piano440.mp3" type="audio/wav">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+```
+da quello di una chitarra
+
+```{=html}
+<audio controls>
+  <source src="chitarra440.mp3" type="audio/wav">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+```
+Quindi le note degli strumenti corrispondono a vibrazioni che sono il risultato della composizione di diverse frequenze. E' un po' come dire che il La di un pianoforte, che per il nostro orecchio è una nota singola, in realtà è la composizione di tante (tantissime) note più *piccole* la cui sovrapposizione costituisce quel caratteristico suono che riconosciamo immediatamente. In altre paorle il La del pianoforte e quello della chitarra sono costituiti da tantissime piccole note, diverse tra loro. La principale e più forte è appunto il La a 440Hz, che dà il nome alla nota, anche se il suono risulta così diverso. 
+
+Quindi, abbiamo capito che comobinare insieme delle note, permette di generare altre note.
+
+
+
+
+# Le note fantasma
+
+
+
+
+
+
+
+
+
+
+

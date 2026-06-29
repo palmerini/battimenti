@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: Gli spiritelli della musica
+  subtitle: Battimenti e note fantasma
+  date: "1/7/2026"
+  author: "paolo palmerini"
+  chapters:
+    - index.qmd
+    - battimenti.qmd
+    - pitch.qmd
+    - ghost_notes.qmd
+
+bibliography: references.bib
+
+
+format:
+  html:
+    theme: cosmo
+
+
+  
+
+

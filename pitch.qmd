@@ -1,0 +1,133 @@
+# Le note che scivolano via {#sec-pitch}
+
+Abbiamo identificato il primo tipo di folletti, vediamo se riusciamo a trovarne un altro. Proviamo a cercare tra le pieghe di un coro che canta senza strumenti musicali di accompagnamento o, come si dice *a cappella*. 
+Una cosa bizzarra che succede a volte è che  alla fine del brano il coro a volte è un po' calante, ovvero termina un po' sotto la tonalità iniziale, a volte meno, a volte più. I coristi non se ne rendono conto, ma per qualche motivo calano. Le note con le quali il coro ha iniziato sono scivolate via, come se uno strano folletto avesse cambiato la tonalità mentre il coro cantava. Si potrebbe pensare che il coro semplicemente non sia capace di tenere l'intonazione, che non sia abbastanza bravo, e invece... 
+
+## Pitch-drift
+
+Il fatto di perdere l'intonazione è un fenomeno chiamato anche *pitch drift*. L'intuizione logica suggerirebbe che possa essere dovuta ad una difficoltà di raggiungere alcune note, magari particolarmente alte (o basse), ma in realtà possono essere successe cose molto diverse e, fatto ancora più strano, in funzione della causa di questa perdita di intonazione, la soluzione potrebbe essere assolutamente controintuitiva, ancora una volta, quasi magica. 
+
+## Il paradosso del supporto muscolare (Fisiologico)
+
+Quando un brano comincia in una tonalità comoda (o leggermente bassa), i cantanti tendono a rilassarsi. Questo rilassamento è il nemico numero uno dell'intonazione *a cappella*. In questo caso la soluzione potrebbe essere cantare il brano in una tonalità più alta, ad esempio un tono sopra l'originale. Perché se il coro tende a calare, alzare la tonalità sembra risolvere il problema? Vediamo cosa succede nei due casi.
+
+* **Nella tonalità originale:** Sentendo il brano "alla portata", il coro tende a usare meno il diaframma e a ridurre il supporto del fiato. Senza accorgersene, la colonna d'aria si sgonfia, la muscolatura laringea si adagia e la tonalità cala millimetro dopo millimetro.
+* **Nella tonalità più alta:** Poiché il brano è percepito come più difficile, i cantanti **attivano inconsciamente una maggiore pressione subglottica** (insomma, spingono di più con il fiato e usano meglio il corpo). Questo maggiore supporto muscolare sostiene la colonna d'aria e "tiene su" l'intonazione per tutta la durata del pezzo.
+
+## La "Tessitura" e i passaggi di registro (Fisiologico)
+
+Un motivo leggermente diverso, ma sempre legato alla fisiologia della voce, potrebbe essere legato al registro in cui un certo brano si trova. Anche in questo caso, la soluzione controintuitiva è che alzando il brano il problema potrebbe risolversi. Vediamo meglio. 
+
+Ogni sezione del coro (soprani, contralti, tenori, bassi) ha una zona della voce chiamata *tessitura*, dove cantare è più naturale, e dei punti critici chiamati *punti di passaggio* (dove la voce cambia registro, ad esempio da voce di petto a voce di testa).
+
+Spostare un brano anche solo di un semitono può spostare l'intera melodia fuori da una "zona d'ombra" vocale.
+
+Se nella tonalità originale molte note centrali insistevano proprio sul punto di passaggio, i cantanti potrebbero aver teso a "ingrossare" i suoni centrali per farli sentire, appesantendo la corda vocale (fino a farla calare). Alzando il brano, quelle stesse note sono entrate decisamente nel registro superiore (voce di testa o misto), dove le corde vocali sono più tese e sottili, rendendo il pitch (l'altezza della nota) molto più stabile.
+
+## La "Sindrome della comodità" (Psicologico)
+
+C'è anche una componente mentale. Quando cantate nella tonalità originale, l'orecchio si adatta alla familiarità dei suoni. Se il coro cala tutto insieme in modo omogeneo, l'orecchio interno non percepisce la discrepanza perché i rapporti intervallari (le distanze tra le note) rimangono corretti. È la cosiddetta *corrente del golfo*: vi trascina via tutti insieme e nessuno se ne accorge finché non si ferma la musica.
+
+Alzando di un semitono, la novità e la sensazione di "allerta" costringono il cervello a un livello di ascolto reciproco e di concentrazione molto più alto.
+
+## L'intonazione giusta vs. quella temperata {#sec-just}
+
+In realtà c'è anche un altro fattore importante, che però non viene risolto cambiando la tonalità.  Cantando a cappella, i cori tendono naturalmente verso l'intonazione pura, detta anceh "giusta", dove certi intervalli sono leggermente diversi dal temperamento equabile del pianoforte. Alcune progressioni armoniche, se "intonate puramente", producono una deriva cumulativa verso il basso — è matematicamente inevitabile in certi giri armonici.
+
+Il problema fondamentale è questo: nell'intonazione pura, una quinta giusta ha rapporto di frequenza esatto 3:2. Se fai 12 quinte consecutive, dovresti tornare alla nota di partenza (7 ottave sopra). Ma matematicamente:
+
+12 quinte pure = (3/2)¹² = 129.746...
+
+7 ottave = 2⁷ = 128
+
+C'è uno scarto — il comma pitagorico $c$ — di 23 cent, ovvero quasi un quarto di semitono. Infatti ricordiamo che i cent sono frazioni di un semitono, che equivale a 100 cent. La *differenza* tra due note (che in realtà è un rapporto) si misura in cent, calcolati con la formula seguente:
+
+$$
+c=1200 \log_2\left( \frac{129.746}{128} \right)=23
+$$
+
+A parte la formula, quello che interessa è che nel pianoforte un intervallo di quinta (ad esempio Do-Sol) è leggermente diverso dallo stesso intervallo cantato. Se un corso canta insieme ad uno strumento, tenderà a *seguire* lo strumento e quindi sarà sempre intonato rispetto allo strumento. Se invece un coro canta *a cappella* tenderà a seguire il proprio orecchio e quindi a cantare gli intervalli *giusti*. Questo effetto, su alcune melodie, potrebbe portare a scostamenti importanti, anche di un intero semitono. 
+
+## La progressione che fa calare
+
+Prendi questa sequenza di accordi, molto comune nella musica corale:
+
+I → IV → V → I → IV → V → I ...
+
+(Do  Fa   Sol  Do  Fa   Sol  Do)
+
+Ogni volta che il coro intona puramente questo giro, accade questo:
+
+| Passaggio                 | Cosa succede                                   |
+|---------------------------|------------------------------------------------|
+| Do → Fa (quarta pura 4:3) | il Do "scende" di 2 cent rispetto al temperato |
+| Fa → Sol (seconda)        | stabile                                        |
+| Sol → Do (quinta pura 3:2)| il Do "scende" ancora di ~2 cent               |
+
+Dopo 3-4 ripetizioni del giro, il Do finale è già 6-8 cent più basso di quello iniziale. Impercettibile ad ogni singolo passaggio, ma cumulativo.
+
+## L'esempio più drammatico: la terza pitagorica
+
+Ancora più insidioso è quando ci sono terze maggiori. Nell'intonazione pura la terza maggiore è 5:4 (386 cent), mentre nel temperamento equabile è 400 cent — ben 14 cent di differenza.
+
+Consideriamo questa progressione:
+
+Do maggiore → Mi maggiore → Sol diesis maggiore → Do maggiore
+
+Ogni accordo, intonato puramente, abbassa la terza di 14 cent. Dopo tre passaggi sei già 42 cent sotto — quasi un quarto di tono! Questo è il famoso "comma sintonico" e rende questa progressione praticamente impossibile da tenere in intonazione a cappella senza scendere.
+
+Il meccanismo subdolo è che ogni singolo accordo suona benissimo — anzi, meglio del temperato, più consonante e "pieno". Il coro si sente intonato ad ogni momento. È solo confrontando la nota finale con quella iniziale che emerge la deriva. È come scendere una scala a chiocciola: ogni gradino sembra orizzontale, ma alla fine sei molto più in basso.
+
+## Yesterday
+
+Ad esempio, se per caso volessimo cantare "Yesterday" dei Beatles con un coro, è molto probabile che incorreremmo in questo tipo di errore. Vediamo perché. 
+
+La progressione completa è: **F → Em7b5 → A7 → Dm → Bb → C7 → F**, con una sezione bridge che aggiunge **Dm → G7 → Bb → F**.
+
+Questa canzone è un caso quasi da manuale per il pitch drift. Ecco perché:
+
+
+### 🔴 Punto critico 1 — Il passaggio `Em7b5 → A7 → Dm`
+
+Questo è il passaggio **più pericoloso** dell'intera canzone. Appare **ad ogni strofa**, almeno 4-5 volte.
+
+- `Em7b5` contiene già una quinta diminuita (Si♭ su Mi), una quinta *più stretta* di quella pura
+- `A7` è un **accordo di dominante secondaria** (V/iv), con la terza maggiore Do# che il coro tenderà a intonare pura a **386 cent** invece dei 400 del temperamento equabile
+- La risoluzione su `Dm` abbassa ulteriormente il centro tonale di **circa 14 cent**
+
+Ogni volta che passate per questo giro, perdete quasi un ottavo di semitono. Ripetuto 4-5 volte: **50-70 cent di deriva totale**.
+
+### 🔴 Punto critico 2 — Il bridge: `Dm → G7 → Bb → F`
+
+Il bridge inizia su Em7b5, poi scorre attraverso A7, Dm, e Bb prima di risolvere su F.
+
+La sequenza `G7 → Bb` è particolarmente insidiosa: è una **progressione per terza discendente** (Sol → Si♭), esattamente il tipo di movimento che ho descritto prima come il più soggetto a deriva cumulativa nell'intonazione pura.
+
+### 🔴 Punto critico 3 — Le terze maggiori ripetute
+
+La progressione di apertura si muove da F maggiore a Em7, poi avanza attraverso A7, Dm e G7 prima di risolvere su C (qui: F).
+
+In questo percorso ci sono **tre terze maggiori successive** che il coro intona naturalmente pure. Ognuna abbassa di ~14 cent. Il risultato è una deriva di quasi **40 cent** solo nella prima frase — mezzo semitono, quasi tutto accumulato prima ancora che la canzone sia a metà!
+
+## Schema visivo della deriva per strofa
+
+```
+F        Em7b5    A7       Dm       Bb      C7      F
+ 0 cent   -2      -14      -16      -18     -19    -20
+              ↑                ↑
+         quinta dim.      terza maggiore pura
+         già sotto        abbassa ancora
+```
+
+Alla fine della **prima strofa** siete già ~20 cent sotto. Alla terza strofa avete accumulato un semitono completo.
+
+## Perché un semitono più su aiuta
+
+La canzone è in Fa maggiore, con una tendenza frequente a deviare verso il Re minore relativo, il che significa che le voci più gravi (bassi e contralti) lavorano spesso nella zona bassa del loro registro mentre i soprani spingono verso l'alto. Un semitono sopra (Fa# / Sol♭) porta tutto leggermente più al centro della tessitura di ciascuna voce, migliorando il sostegno del fiato e quindi la stabilità dell'intonazione — esattamente come ipotizzavamo prima.
+
+La spiegazione matematica e quella fisiologica si sommano: **Yesterday è strutturalmente uno dei brani più difficili da tenere in tonalità a cappella**!
+
+
+## Cosa fare adesso?
+
+Beh, se alzare di un semitono ha funzionato, come direbbe un bravo maestro, "Teniamola così!".

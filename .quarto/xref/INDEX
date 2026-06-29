@@ -1,0 +1,18 @@
+{
+  "index.qmd": {
+    "index.html": "573fa7b7",
+    "index.embed.ipynb": "b2b19524",
+    "index.out.ipynb": "4ea9976b",
+    "index-preview.html": "c54c3486",
+    "index.docx": "e8fa9096"
+  },
+  "battimenti.qmd": {
+    "battimenti.html": "b7dd42bc"
+  },
+  "pitch.qmd": {
+    "pitch.html": "ab0b4ac4"
+  },
+  "ghost_notes.qmd": {
+    "ghost_notes.html": "a3a4b6c1"
+  }
+}
