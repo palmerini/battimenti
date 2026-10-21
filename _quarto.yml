@@ -17,7 +17,11 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    # Tema chiaro e scuro con la palette di "Viva la musica"; segue le preferenze del sistema
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    respect-user-color-scheme: true
 
 
   

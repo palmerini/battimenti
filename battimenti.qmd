@@ -10,7 +10,7 @@ Tornando alla musica, questa sovrapposizione può dare origine a risultati molto
 
 ```{=html}
 <audio controls>
-  <source src="sounds/440-450.mp3" type="audio/wav">
+  <source src="sounds/440-450.mp3" type="audio/mp3">
   Il tuo browser non supporta l'elemento audio.
 </audio>
 ```
@@ -24,7 +24,7 @@ Quanto vicine? Tanto più il trillo è veloce, tanto più le note sono lontane. 
 
 ```{=html}
 <audio controls>
-  <source src="sounds/440-460.mp3" type="audio/wav">
+  <source src="sounds/440-460.mp3" type="audio/mp3">
   Il tuo browser non supporta l'elemento audio.
 </audio>
 ```

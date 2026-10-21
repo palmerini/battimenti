@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+// Palette di "Viva la musica", ricavata dal logo del coro (vedi coro-app/src/app.css).
+$web-font-path: false;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", sans-serif !default;
+
+$body-bg: #f3f8f5;
+$body-color: #14302f;
+$headings-color: #14302f;
+$link-color: #1f6b66;
+$link-hover-color: #1f4f4e;
+$primary: #1f4f4e;
+$secondary: #587371;
+$border-color: #d3e3de;
+$text-muted: #587371;
+$code-color: #1f4f4e;
+$code-block-bg: #e6f0ec;
+$code-block-border-color: #d3e3de;
+$blockquote-border-color: #bfe5c6;
+$table-border-color: #d3e3de;
+$navbar-bg: #1f4f4e;
+$navbar-fg: #d6ebe3;
+$sidebar-bg: #f3f8f5;
+$sidebar-fg: #14302f;
+$sidebar-hl: #1f6b66;
+$footer-bg: #f3f8f5;
+$footer-fg: #587371;
+
+/*-- scss:rules --*/
+a { text-underline-offset: 0.15em; }
+.sidebar-navigation .sidebar-item a.active,
+.sidebar-navigation .sidebar-item a:hover { color: #1f6b66; }
